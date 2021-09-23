@@ -1,0 +1,59 @@
+
+GET http://localhost:3000/api/Badge
+
+###
+
+POST http://localhost:3000/api/Register
+Content-Type: application/json
+
+{
+    "full_name": "Dale Cooper",
+    "company": "FBI",
+    "email": "dale@fbi.com",
+    "microsoft_partner_network_id": 5
+}
+
+###
+
+GET http://localhost:3000/api/GameUser
+
+###
+
+PUT http://localhost:3000/api/GameUser
+Content-Type: application/json
+
+{
+    "nick_name": "dale.cooper",
+    "hot_streak_count": 4,
+    "point_total": 100
+}
+
+###
+
+GET http://localhost:3000/api/BadgesEarned
+
+###
+
+POST http://localhost:3000/api/BadgesEarned/3
+
+###
+
+GET http://localhost:3000/api/GameUserResponse
+
+###
+
+POST http://localhost:3000/api/GameUserResponse/1
+Content-Type: application/json
+
+{
+    "question_status": true,
+    "answer_provided": "3"
+}
+
+###
+
+GET http://localhost:3000/api/Leaderboard
+
+###
+
+GET http://localhost:3000/api/Question

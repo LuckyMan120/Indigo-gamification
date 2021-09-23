@@ -1,0 +1,317 @@
+{
+  "questions": [
+    {
+      "question": "What are the key focus areas for partner transformation in FY22?",
+      "type": "radio",
+      "answers": [
+        "Membership and co-sell",
+        "New commerce and cloud solution providers",
+        "The Microsoft commercial marketplace",
+        "All of the above"
+      ],
+      "points": 10,
+      "correctAnswer": "3",
+      "day": "1",
+      "questionID": 0
+    },
+    {
+      "question": "What solutions were covered in the FY22 priorities?",
+      "type": "radio",
+      "answers": [
+        "Microsoft Azure",
+        "Modern Work",
+        "Business applications",
+        "Microsoft Surface",
+        "All of the above",
+        "None of the above"
+      ],
+      "points": 10,
+      "correctAnswer": "4",
+      "day": "1",
+      "questionID": 1
+    },
+    {
+      "question": "The US general session included three themes. Which one was NOT a theme?",
+      "type": "radio",
+      "answers": [
+        "Innovation",
+        "Differentiation",
+        "Modernization",
+        "Inclusion"
+      ],
+      "points": 10,
+      "correctAnswer": "2",
+      "day": "1",
+      "questionID": 2
+    },
+    {
+      "question": "In a sentence or two, indicate which theme relates most to your business and describe how it resonates with your partnership with Microsoft.",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "1",
+      "questionID": 3
+    },
+    {
+      "question": "What was your biggest takeaway from the opening keynote on the first day?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "1",
+      "questionID": 4
+    },
+    {
+      "question": "Who was announced this year as the new Corporate Vice President of Global Channel Sales and Channel Chief at Microsoft?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "1",
+      "questionID": 5
+    },
+    {
+      "question": "As mentioned in the US Live Community Connection session, which Azure service helped deliver COVID-19 vaccinations to more than 2 million people?",
+      "type": "radio",
+      "answers": [
+        "Azure Health Bot",
+        "Azure Advisor",
+        "Microsoft Genomics",
+        "Azure Bastion"
+      ],
+      "points": 10,
+      "correctAnswer": "0",
+      "day": "1",
+      "questionID": 6
+    },
+    {
+      "question": "According to data shared in the US Live Community Connection session, how can skill gaps negatively impact your team?",
+      "type": "radio",
+      "answers": [
+        "Higher stress levels",
+        "Development delays",
+        "Delays for critical projects",
+        "Loss of revenue",
+        "All of the above"
+      ],
+      "points": 10,
+      "correctAnswer": "4",
+      "day": "1",
+      "questionID": 7
+    },
+    {
+      "question": "What types of digital skills training would help you most in your partnership with Microsoft?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "1",
+      "questionID": 8
+    },
+    {
+      "question": "What is one key announcement from the first day of Inspire that might impact your business?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "1",
+      "questionID": 9
+    },
+    {
+      "question": "The Microsoft Partner Network (MPN) is a hub of people, resources, and offerings brought together to give you everything you need to build and deliver successful solutions for your customers. Visit the",
+      "link": "https://partner.microsoft.com/en-us/membership",
+      "linkText": "MPN membership page",
+      "question2": " to learn more or sign up. Are you currently an MPN member and/or did you visit the link to learn more?",
+      "type": "radio",
+      "answers": ["Yes, I’m an MPN member or I visited the link", "No"],
+      "points": 50,
+      "correctAnswer": "0",
+      "day": "1",
+      "questionID": 10
+    },
+    {
+      "question": "The Microsoft Partner Community (MPC) is the central destination for sharing business best practices with members of the MPN. It’s a shared space where you can build meaningful connections, engage with experts, get answers to questions, and tap into the full power of our partner ecosystem. The US Partner Zone includes important announcements, networking opportunities, business resources, Q&As, virtual events and more. Visit the ",
+      "linkText": "MPC page",
+      "link": "https://www.microsoftpartnercommunity.com/",
+      "question2": "to sign up or learn more. Are you currently an MPC member and/or did you visit the link to learn more?",
+      "type": "radio",
+      "answers": ["Yes, I’m an MPN member or I visited the link", "No"],
+      "points": 10,
+      "correctAnswer": "0",
+      "day": "1",
+      "questionID": 11
+    },
+    {
+      "question": "What was your biggest takeaway from the opening keynote on the second day?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "2",
+      "questionID": 12
+    },
+    {
+      "question": "What isn’t the format of Into Focus at Microsoft Inspire this year?",
+      "type": "radio",
+      "answers": [
+        "A daytime talk show",
+        "Conversations with Microsoft executives",
+        "A display of the human side of Microsoft",
+        "A detailed preview of new products",
+        "All of the above"
+      ],
+      "points": 10,
+      "correctAnswer": "3",
+      "day": "2",
+      "questionID": 13
+    },
+    {
+      "question": "How does Microsoft demonstrate commitment to diversity and inclusion?",
+      "type": "radio",
+      "answers": [
+        "Events",
+        "Community groups",
+        "Yammer channel",
+        "Employee/partner stories",
+        "All of the above"
+      ],
+      "points": 10,
+      "correctAnswer": "4",
+      "day": "2",
+      "questionID": 14
+    },
+    {
+      "question": "Name one key announcement from the second day of Microsoft Inspire that may impact your business.",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "2",
+      "questionID": 15
+    },
+    {
+      "question": "In the US Live Community Connection session, Microsoft announced that the Black and African American Partner Growth Initiative has committed to grow representation in the MPN by ______% over the next three years.",
+      "type": "radio",
+      "answers": ["5%", "10%", "20%", "50%"],
+      "points": 10,
+      "correctAnswer": "2",
+      "day": "2",
+      "questionID": 16
+    },
+    {
+      "question": "How many partners join the MPN daily?",
+      "type": "radio",
+      "answers": ["100 - 200", "200 - 300", "300 - 400", "500 - 600"],
+      "points": 10,
+      "correctAnswer": "2",
+      "day": "2",
+      "questionID": 17
+    },
+    {
+      "question": "How many new offers are in AppSource and the Azure Marketplace?",
+      "type": "radio",
+      "answers": ["15,000", "30,000", "20,000", "10,000"],
+      "points": 10,
+      "correctAnswer": "1",
+      "day": "2",
+      "questionID": 18
+    },
+    {
+      "question": "How many customers does the commercial marketplace reach each month?",
+      "type": "radio",
+      "answers": ["1,000,000", "2,000,000", "3,000,000", "4,000,000"],
+      "points": 10,
+      "correctAnswer": "3",
+      "day": "2",
+      "questionID": 19
+    },
+    {
+      "question": "What was the single most memorable moment you took away from Microsoft Inspire 2021?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "2",
+      "questionID": 20
+    },
+    {
+      "question": "The US Microsoft Inspire Post Event is a two-day virtual event packed with impactful presentations, Ask-Me-Anything (AMA) sessions on various topics, and live partner-to-partner conversations. It’s a great opportunity for you to learn more and connect with US executives and partners. Are you registered for the Microsoft Inspire Post Event?",
+      "type": "radio",
+      "link": "https://aka.ms/USPostInspire",
+      "linkText": "Registration Link",
+      "answers": [
+        "Yes, I reserved my spot already",
+        "No, but I'll register from the registration link",
+        "I do not plan to attend the event"
+      ],
+      "points": 50,
+      "correctAnswer": "0,1",
+      "day": "postEvent",
+      "questionID": 21
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding Global Partner Solutions, US Solutions?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 22
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding market trends?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 23
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding Microsoft programs?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 24
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding Microsoft enablement?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 25
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding diversity and inclusion?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 26
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding FY22 solution priorities?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 27
+    },
+    {
+      "question": "What questions would you like answered in the Post Event sessions after Inspire (even if you are unable to attend) regarding digital skilling and training?",
+      "type": "text",
+      "answers": [],
+      "points": 10,
+      "correctAnswer": "",
+      "day": "postEvent",
+      "questionID": 28
+    }
+  ]
+}

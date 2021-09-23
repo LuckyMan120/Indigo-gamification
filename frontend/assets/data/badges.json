@@ -1,0 +1,49 @@
+{
+  "badges": [
+    {
+      "name": "Partner Prodigy",
+      "description": "Answered the Base 0 questions",
+      "icon": "partner-prodigy"
+    },
+    {
+      "name": "Data Dynamo",
+      "description": "Earned a perfect score on Data & AI questions",
+      "icon": "data-dynamo"
+    },
+    {
+      "name": "Infrastructure Intellectual",
+      "description": "Earned a perfect score on infrasturcture questions",
+      "icon": "infrastructure-intellectual"
+    },
+    {
+      "name": "Innovation Investigation",
+      "description": "Earned a perfect score on Innovation questions",
+      "icon": "innovation-investigation"
+    },
+    {
+      "name": "Hot streak",
+      "description": "Answered five questions in a row correctly on the first try",
+      "icon": "hot-streak"
+    },
+    {
+      "name": "Inferno!",
+      "description": "Answered ten questions in a row correctly on the first try",
+      "icon": "inferno"
+    },
+    {
+      "name": "Centuplicate",
+      "description": "Earned 100 points",
+      "icon": "centuplicate"
+    },
+    {
+      "name": "Overachiever",
+      "description": "Earned 300 points",
+      "icon": "overachiever"
+    },
+    {
+      "name": "Maxed Out!",
+      "description": "Earned the maximum points",
+      "icon": "Maxed-out"
+    }
+  ]
+}

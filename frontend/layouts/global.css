@@ -1,0 +1,182 @@
+/*
+Explicitly define a Segoe UI font-family so that we can assign Segoe UI 
+Semilight to an appropriate font-weight.
+*/
+@font-face {
+  font-family: "Segoe UI";
+  font-weight: 200;
+  src: local("Segoe UI Light"),
+    url(~assets/fonts/segoeuil.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe UI";
+  font-weight: 300;
+  src: local("Segoe UI Semilight"),
+    url(~assets/fonts/segoeuil.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe UI";
+  font-weight: 400;
+  src: url(~assets/fonts/segoeui.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe UI";
+  font-weight: 600;
+  src: local("Segoe UI Semibold"),
+    url(~assets/fonts/seguisb.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe UI";
+  font-weight: 700;
+  src: local("Segoe UI Bold"), url(~assets/fonts/seguisb.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe UI";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Segoe UI Italic"),
+    url(~assets/fonts/segoeuii.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe UI";
+  font-style: italic;
+  font-weight: 700;
+  src: local("Segoe UI Bold Italic"),
+    url(~assets/fonts/segoeuiz.ttf) format("truetype");
+}
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+.background-div {
+  background-image: url("../assets/images/fullscreen-bg.png");
+  background-position: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  min-height: calc(100vh - 92px);
+  padding-top: 50px;
+}
+.backdrop-container {
+  backdrop-filter: blur(25px);
+  border-radius: 5px;
+  width: 100%;
+  z-index: 2;
+  padding: 20px;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  max-width: 880px;
+  max-height: 80vh;
+  overflow: scroll;
+}
+.intro-headline {
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 48px;
+  color: #50e6ff;
+}
+.intro-headline .span {
+  color: #0078d4;
+  display: block;
+}
+
+.box-headline {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+.box-headline .span {
+  display: block;
+}
+
+.go-back-button {
+  font-family: "Segoe UI-semibold", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: lighter;
+  line-height: 27px;
+  letter-spacing: 0em;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+  width: 197px;
+  height: 55.36px;
+  padding: 0;
+  border: 1px solid #ffffff;
+  margin: 0 0 30px 0;
+}
+.go-back-button a {
+  color: #ffffff;
+  width: 100%;
+  height: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.get-started-button {
+  font-family: "Segoe UI-semibold", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: lighter;
+  line-height: 27px;
+  letter-spacing: 0em;
+  background: #0078d4;
+  border-radius: 0;
+  border: 0;
+  width: 197px;
+  height: 55.36px;
+  padding: 0;
+  color: #ffffff;
+}
+.get-started-button a {
+  color: #000000;
+  width: 100%;
+  height: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.get-started-button:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) {
+  .backdrop-container {
+    padding: 72px;
+  }
+  .go-back-button {
+    margin: 0 30px 0 0;
+  }
+}
+
+.light-row-highlight {
+  background-color: #50e6ff;
+  color: #000000;
+}
+
+.table-dark.table-hover tbody tr.light-row-highlight:hover {
+  background-color: #a7f2ff;
+  color: #000000;
+}
+
+.privacy-notice-footer {
+  margin-top: 100px;
+}
+
+.backdrop-card {
+  backdrop-filter: blur(25px);
+  border-radius: 5px;
+  padding: 50px;
+  z-index: 2;
+}
+
+.table-dark {
+  background-color: #141414;
+}
